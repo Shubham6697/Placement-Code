@@ -1,4 +1,8 @@
-
+/*
+Move all negative numbers to beginning and positive to end with constant extra space
+TC -> O(N)
+SC -> O(1)
+*/
 
 #include <bits/stdc++.h>
 using namespace std;
