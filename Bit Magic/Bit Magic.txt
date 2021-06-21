@@ -6,6 +6,7 @@ There are six operator we have ->
 5. Bitwise Right Shift operator (>>)
 6. Bitwise Left Shift operator (<<)
 
+Note : The left shift and right shift operators should not be used for negative numbers.
 
 
 Problem 1. Check the number whether even or odd
@@ -16,3 +17,65 @@ number & 1 == 1  ----->   odd number
 Problem 2. Right Shift means we dividing the number in the power of 2.
 Problem 3. Left Shift means we multipling the number in the power of 2.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The following are many other interesting problems using XOR operator.
+
+1. Find the Missing Number  (https://www.geeksforgeeks.org/find-the-missing-number/)
+2. swap two numbers without using a temporary variable
+3. A Memory Efficient Doubly Linked List
+4. Find the two non-repeating elements.
+5. Find the two numbers with odd occurences in an unsorted-array.
+6. Add two numbers without using arithmetic operators.
+7. Swap bits in a given number/.
+8. Count number of bits to be flipped to convert a to b .
+9. Find the element that appears once.
+10. Detect if two integers have opposite signs.
