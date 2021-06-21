@@ -7,10 +7,10 @@ Auxiliary Space: O(K), since the priority queue ay any time holds at max k eleme
 
 
 
-int kthSmallest(int arr[], int l, int r, int k) {
+int kthSmallest(int arr[], int n, int k) {
         priority_queue<int> pq; //max heap
         
-        for(int i = l;i <= r;i++){
+        for(int i = 0;i < n;i++){
             pq.push(arr[i]);
             
             if (pq.size() > k) 
