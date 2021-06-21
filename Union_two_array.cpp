@@ -1,5 +1,11 @@
 /*
+Find Union and Intersection of two unsorted arrays
+Difficulty Level : Easy
+Union -> Set
+Intersection -> unordered_map
 
+TC -> O((M+N)log(M+N))
+map will reduce the complexity
 
 */
 
