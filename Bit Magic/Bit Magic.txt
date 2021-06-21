@@ -1,0 +1,7 @@
+There are six operator we have ->
+1. Bitwise AND operator (&)
+2. Bitwise OR operator (|)
+3. Bitwise NOT operator (~)
+4. Bitwise XOR operator (^)
+5. Bitwise Right Shift operator (>>)
+6. Bitwise Left Shift operator (<<)
