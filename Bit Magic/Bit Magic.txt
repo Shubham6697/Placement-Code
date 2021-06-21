@@ -5,3 +5,14 @@ There are six operator we have ->
 4. Bitwise XOR operator (^)
 5. Bitwise Right Shift operator (>>)
 6. Bitwise Left Shift operator (<<)
+
+
+
+Problem 1. Check the number whether even or odd
+
+number & 1 == 0  ----->   even number
+number & 1 == 1  ----->   odd number
+
+Problem 2. Right Shift means we dividing the number in the power of 2.
+Problem 3. Left Shift means we multipling the number in the power of 2.
+
